@@ -641,7 +641,7 @@ $(document).ready(function() {
                       <option data-template="<span class='icon fas fa-broom' data-fa-transform='rotate--45'></span> $1" value="plasmaihs">Turn Plasma on and Off: With Touch Off</option>
                       <option data-template="<span class='icon fas fa-circle'></span> $1" value="laserm3">Turn Laser on and Off: Constant Power (M3/M5)</option>
                       <option data-template="<span class='icon fas fa-adjust'></span> $1" value="laserm4">Turn Laser on and Off: Dynamic  Power (M4/M5)</option>
-                      <option data-template="<span class='icon fas fa-edit'></span> $1" value="plotter">Plotter Pen Up/Down (M3S<min> / M3S<max>)</option>
+                      <option data-template="<span class='icon fas fa-edit'></span> $1" value="plotter">Plotter Pen Up/Down (M3<min> / M5<max>)</option>
                       <option data-template="<span class='icon fas fa-tint'></span> $1" value="misting">Enable Misting/Cooling: (M8/M9)</option>
 
                 </select>
